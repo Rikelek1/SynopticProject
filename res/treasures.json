@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Trophy",
+        "value": 100
+    },
+    {
+        "name": "Antique Coin",
+        "value": 5
+    },
+    {
+        "name": "Gold Bar",
+        "value": 1000
+    },
+    {
+        "name": "Goblet",
+        "value": 75
+    },
+    {
+        "name": "Rusty Sword",
+        "value": 2
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Troll",
+        "defeatingAction": "ATTACK"
+    },
+    {
+        "name": "Wizard",
+        "defeatingAction": "ATTACK"
+    },
+    {
+        "name": "Princess",
+        "defeatingAction": "SAVE"
+    },
+    {
+        "name": "Lost Adventurer",
+        "defeatingAction": "SAVE"
+    },
+    {
+        "name": "Bomb",
+        "defeatingAction": "DEFUSE"
+    },
+    {
+        "name": "Large Argument",
+        "defeatingAction": "DEFUSE"
+    }
+]

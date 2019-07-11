@@ -4,15 +4,16 @@ public class Treasure extends Item {
     private int value;
 
     public Treasure() {
-        super("Treasure", "Pick Up", ItemType.TREASURE);
+        super("Treasure", Action.PICK_UP, ItemType.TREASURE);
         this.setValue(0);
     }
 
-    public Treasure(String name, String action, int value) {
-        super(name, action, ItemType.TREASURE);
+    public Treasure(String name, int value) {
+        super(name, Action.PICK_UP, ItemType.TREASURE);
         this.setValue(value);
     }
 
+    //region Getters and Setters
     public int getValue() {
         return value;
     }
@@ -20,4 +21,5 @@ public class Treasure extends Item {
     public void setValue(int value) {
         this.value = value;
     }
+    //endregion
 }
