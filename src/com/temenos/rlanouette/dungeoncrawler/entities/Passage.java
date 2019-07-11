@@ -11,6 +11,7 @@ public class Passage {
         this.setExit(exit);
     }
 
+    //region Getters and Setters
     public boolean isExit() {
         return exit;
     }
@@ -18,4 +19,5 @@ public class Passage {
     public void setExit(boolean exit) {
         this.exit = exit;
     }
+    //endregion
 }

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+
+<BorderPane id="mainLayout" fx:id="mainLayout" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="130.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.temenos.rlanouette.dungeoncrawler.main.controllers.GameCompleteController">
+   <center>
+      <VBox alignment="CENTER" prefHeight="321.0" prefWidth="600.0" BorderPane.alignment="CENTER">
+         <children>
+            <Label text="Congratulations! You found the exit and escaped the maze!" />
+            <HBox alignment="CENTER" prefHeight="0.0" prefWidth="600.0" spacing="10.0">
+               <children>
+                  <Label text="Final Wealth:" />
+                  <Label id="lblFinalWealth" fx:id="lblFinalWealth" />
+               </children>
+            </HBox>
+            <HBox alignment="CENTER" prefHeight="0.0" prefWidth="600.0" spacing="10.0">
+               <children>
+                  <Button id="btnNewGame" fx:id="btnNewGame" mnemonicParsing="false" onAction="#handleNewGameAction" text="Play Again" />
+                  <Button id="btnNewConfig" fx:id="btnNewConfig" mnemonicParsing="false" onAction="#handleLoadNewConfigAction" text="Load New Config" />
+                  <Button id="btnMainMenu" fx:id="btnMainMenu" mnemonicParsing="false" onAction="#handleMainMenuAction" text="Main Menu" />
+                  <Button id="btnQuit" fx:id="btnQuit" mnemonicParsing="false" onAction="#handleQuitButtonAction" text="Quit" />
+               </children>
+            </HBox>
+         </children>
+      </VBox>
+   </center>
+</BorderPane>

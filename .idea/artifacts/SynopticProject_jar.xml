@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact name="SynopticProject:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SynopticProject_jar</output-path>
+    <root id="root">
+      <element id="archive" name="SynopticProject.jar">
+        <element id="module-output" name="SynopticProject" />
+      </element>
+      <element id="directory" name="res">
+        <element id="dir-copy" path="$PROJECT_DIR$/res" />
+      </element>
+      <element id="directory" name="lib">
+        <element id="library" level="project" name="gson-2.8.5" />
+      </element>
+    </root>
+  </artifact>
+</component>

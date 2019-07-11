@@ -1,0 +1,383 @@
+[
+    {
+        "position": {
+            "x": 2,
+            "y": 0
+        },
+        "items": [
+            {
+                "name": "Rusty Sword"
+            }
+        ],
+        "passages": [
+            {
+                "direction": "SOUTH"
+            }
+        ]
+    },
+    {
+        "position": {
+            "x": 0,
+            "y": 1
+        },
+        "items": [
+            {
+                "name": "Troll"
+            },
+            {
+                "name": "Trophy"
+            }
+        ],
+        "passages": [
+            {
+                "direction": "EAST"
+            }
+        ]
+    },
+    {
+        "position": {
+            "x": 1,
+            "y": 1
+        },
+        "items": [],
+        "passages": [
+            {
+                "direction": "EAST"
+            },
+            {
+                "direction": "SOUTH"
+            },
+            {
+                "direction": "WEST"
+            }
+        ]
+    },
+    {
+        "position": {
+            "x": 2,
+            "y": 1
+        },
+        "items": [
+            {
+                "name": "Large Argument"
+            }
+        ],
+        "passages": [
+            {
+                "direction": "NORTH"
+            },
+            {
+                "direction": "WEST"
+            }
+        ]
+    },
+    {
+        "position": {
+            "x": 5,
+            "y": 1
+        },
+        "items": [
+            {
+                "name": "Gold Bar"
+            }
+        ],
+        "passages": [
+            {
+                "direction": "SOUTH"
+            }
+        ]
+    },
+    {
+        "position": {
+            "x": 1,
+            "y": 2
+        },
+        "items": [],
+        "passages": [
+            {
+                "direction": "NORTH"
+            },
+            {
+                "direction": "SOUTH"
+            }
+        ]
+    },
+    {
+        "position": {
+            "x": 5,
+            "y": 2
+        },
+        "items": [
+            {
+                "name": "Wizard"
+            }
+        ],
+        "passages": [
+            {
+                "direction": "NORTH"
+            },
+            {
+                "direction": "SOUTH"
+            }
+        ]
+    },
+    {
+        "position": {
+            "x": 1,
+            "y": 3
+        },
+        "items": [],
+        "passages": [
+            {
+                "direction": "NORTH"
+            },
+            {
+                "direction": "SOUTH"
+            }
+        ]
+    },
+    {
+        "position": {
+            "x": 3,
+            "y": 3
+        },
+        "items": [],
+        "passages": [
+            {
+                "direction": "SOUTH"
+            }
+        ]
+    },
+    {
+        "position": {
+            "x": 5,
+            "y": 3
+        },
+        "items": [],
+        "passages": [
+            {
+                "direction": "NORTH"
+            },
+            {
+                "direction": "SOUTH"
+            }
+        ]
+    },
+    {
+        "position": {
+            "x": 1,
+            "y": 4
+        },
+        "items": [],
+        "passages": [
+            {
+                "direction": "NORTH"
+            },
+            {
+                "direction": "EAST"
+            }
+        ]
+    },
+    {
+        "position": {
+            "x": 2,
+            "y": 4
+        },
+        "items": [],
+        "passages": [
+            {
+                "direction": "EAST"
+            },
+            {
+                "direction": "WEST"
+            }
+        ]
+    },
+    {
+        "position": {
+            "x": 3,
+            "y": 4
+        },
+        "items": [],
+        "passages": [
+            {
+                "direction": "NORTH"
+            },
+            {
+                "direction": "EAST"
+            },
+            {
+                "direction": "WEST"
+            }
+        ]
+    },
+    {
+        "position": {
+            "x": 4,
+            "y": 4
+        },
+        "items": [],
+        "passages": [
+            {
+                "direction": "EAST"
+            },
+            {
+                "direction": "SOUTH"
+            },
+            {
+                "direction": "WEST"
+            }
+        ]
+    },
+    {
+        "position": {
+            "x": 5,
+            "y": 4
+        },
+        "items": [],
+        "passages": [
+            {
+                "direction": "NORTH"
+            },
+            {
+                "direction": "EAST"
+            },
+            {
+                "direction": "WEST"
+            }
+        ]
+    },
+    {
+        "position": {
+            "x": 6,
+            "y": 4
+        },
+        "items": [],
+        "passages": [
+            {
+                "direction": "SOUTH"
+            },
+            {
+                "direction": "WEST"
+            }
+        ]
+    },
+    {
+        "position": {
+            "x": 4,
+            "y": 5
+        },
+        "items": [],
+        "passages": [
+            {
+                "direction": "NORTH"
+            },
+            {
+                "direction": "SOUTH"
+            }
+        ]
+    },
+    {
+        "position": {
+            "x": 6,
+            "y": 5
+        },
+        "items": [],
+        "passages": [
+            {
+                "direction": "NORTH"
+            }
+        ]
+    },
+    {
+        "position": {
+            "x": 4,
+            "y": 6
+        },
+        "items": [],
+        "passages": [
+            {
+                "direction": "NORTH"
+            },
+            {
+                "direction": "SOUTH"
+            }
+        ]
+    },
+    {
+        "position": {
+            "x": 4,
+            "y": 7
+        },
+        "items": [],
+        "passages": [
+            {
+                "direction": "NORTH"
+            },
+            {
+                "direction": "EAST"
+            }
+        ]
+    },
+    {
+        "position": {
+            "x": 5,
+            "y": 7
+        },
+        "items": [],
+        "passages": [
+            {
+                "direction": "SOUTH"
+            },
+            {
+                "direction": "WEST"
+            }
+        ]
+    },
+    {
+        "position": {
+            "x": 5,
+            "y": 8
+        },
+        "items": [],
+        "passages": [
+            {
+                "direction": "NORTH"
+            },
+            {
+                "direction": "EAST"
+            },
+            {
+                "direction": "SOUTH"
+            }
+        ]
+    },
+    {
+        "position": {
+            "x": 6,
+            "y": 8
+        },
+        "items": [],
+        "passages": [
+            {
+                "direction": "EAST",
+                "exit": true
+            },
+            {
+                "direction": "WEST"
+            }
+        ]
+    },
+    {
+        "position": {
+            "x": 5,
+            "y": 9
+        },
+        "items": [],
+        "passages": [
+            {
+                "direction": "NORTH"
+            }
+        ]
+    }
+]
