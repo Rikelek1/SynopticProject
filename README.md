@@ -1,6 +1,26 @@
 # __SynopticProject__
 
-A maze game for my Synoptic Project
+This is a Maze Game which I have created for my Synoptic Project. It is written in Java and utilises the JavaFx framework, which allowed for a more rapid development due to my familiarity and experience with it.
+
+It uses a separate window for the Main Menu, Player Name entry, Game and Game completion screens, supported by model classes for each of the main components of the game (found in the "com.temenos.rlanouette.dungeoncrawler.entities" package). This design, due to the nature of JavaFx uses the Model, View Controller (MVC) architectural pattern, which I then added a static "GameContext" class to in order to keep track of the over-arching properties and game state (player name, score etc). Each of the Models, Views and Controllers can be found in their respective packages (dungeoncrawler.main.controllers, models, views), although the "entities" package acts more as a "models" package.
+
+(Please note: All comments in the code starting with "//region" are Intellij's region system)
+
+GameContext tests are written using Junit.
+
+## __Known Bugs/Issues__
+
+- When launching the game for the first time, or when a player name isn't set, pressing the "Cancel" button on the Set Name window causes the player name to remain empty.
+
+## __Future Improvements__
+
+- Configuration-specific leaderboards to store player scores for each maze.
+- Map in the top-right hand corner of the game screen, to allow the player to navigate more easily.
+- Room graphics for the center of the game screen, to further improve the player experience and relay information easier.
+- Re-write the player action system, to handle all actions, including movement, more efficiently.
+- Improve configuration file validation.
+
+---
 
 ## __Pre-Requisites__
 
