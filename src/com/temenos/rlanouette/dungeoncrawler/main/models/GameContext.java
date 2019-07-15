@@ -15,8 +15,6 @@ import java.util.List;
 import java.util.Map;
 import java.util.Properties;
 
-import static com.temenos.rlanouette.dungeoncrawler.entities.Direction.*;
-
 public class GameContext {
     // Make a single, static instance of this GameContext
     private final static GameContext instance = new GameContext();
@@ -162,10 +160,7 @@ public class GameContext {
                 if(validThreats.contains(itemConfig)) {
                     Item item = validThreats.get(validThreats.indexOf(itemConfig));
                     room.addItem(item);
-                    continue;
                 }
-
-
             }
 
             for(PassageConfig passageConfig : roomconfig.getPassages()) {
