@@ -25,7 +25,7 @@ public class Popup {
         Stage stage = new Stage();
         try {
             // try to create a new root node from the view file given
-            Parent root = FXMLLoader.load(Popup.class.getResource(String.format("../views/%s.fxml", view)));
+            Parent root = FXMLLoader.load(Popup.class.getResource(String.format("/com/temenos/rlanouette/dungeoncrawler/main/views/%s.fxml", view)));
 
             // try to set the scene for the window to a new scene which uses the newly-created root node
             stage.setScene(new Scene(root));
@@ -72,7 +72,7 @@ public class Popup {
         Stage stage = new Stage();
         FXMLLoader loader;
         try {
-            loader = new FXMLLoader(Popup.class.getResource("../views/ItemSelect.fxml"));
+            loader = new FXMLLoader(Popup.class.getResource("/com/temenos/rlanouette/dungeoncrawler/main/views/ItemSelect.fxml"));
 
             Parent root = loader.load();
 

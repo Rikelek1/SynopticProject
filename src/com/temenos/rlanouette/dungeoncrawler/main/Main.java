@@ -13,7 +13,7 @@ public class Main extends Application {
 
 
         // Load the Title fxml and configure and display the window
-        Parent root = FXMLLoader.load(Main.class.getResource("views/Title.fxml"));
+        Parent root = FXMLLoader.load(Main.class.getResource("/com/temenos/rlanouette/dungeoncrawler/main/views/Title.fxml"));
         primaryStage.setTitle("Olde Worlde Phunne - Maze Game");
         primaryStage.setScene(new Scene(root));
         primaryStage.setResizable(false);
