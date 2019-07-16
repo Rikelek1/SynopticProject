@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="SynopticProject:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="beb1d31b-4aa3-47d8-8a2f-4370ba711687" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/SynopticProject_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/JavaFx.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/gson_2_8_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/configs/default.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/configs/defaultNo6465.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/configs/testing/blank.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/configs/testing/duplicateCoords.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/configs/testing/noCoords.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/configs/testing/noExits.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/configs/testing/twoExits.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/configs/twoExits.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/images/arrow-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/images/readme/config_file_select.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/images/readme/game_complete_screen.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/images/readme/game_screen.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/images/readme/main_menu_config.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/images/readme/main_menu_no_config.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/images/readme/player_name.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/images/readme/target_select.png" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="Readme" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/temenos/rlanouette/dungeoncrawler/main/models/GameContext.java" />
+        <option value="$PROJECT_DIR$/src/com/temenos/rlanouette/dungeoncrawler/main/util/Popup.java" />
+        <option value="$PROJECT_DIR$/src/com/temenos/rlanouette/dungeoncrawler/main/Main.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-1928" />
+    <option name="y" value="-331" />
+    <option name="width" value="1936" />
+    <option name="height" value="1066" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="SynopticProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SynopticProject" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib/javafx-sdk-11.0.2" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.temenos.rlanouette.dungeoncrawler.main.Main" />
+      <module name="SynopticProject" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.temenos.rlanouette.dungeoncrawler.main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="beb1d31b-4aa3-47d8-8a2f-4370ba711687" name="Default" comment="" />
+      <created>1562873008945</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1562873008945</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1928" y="-331" width="1936" height="1066" extended-state="6" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.3297414" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3297414" />
+      <window_info id="Designer" order="2" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14818764" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Messages" order="7" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/temenos/rlanouette/dungeoncrawler/main/controllers/GameController.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/temenos/rlanouette/dungeoncrawler/main/models/GameContext.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/temenos/rlanouette/dungeoncrawler/entities/Action.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/temenos/rlanouette/dungeoncrawler/entities/Maze.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/temenos/rlanouette/dungeoncrawler/main/controllers/GameController.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/temenos/rlanouette/dungeoncrawler/main/models/GameContext.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/temenos/rlanouette/dungeoncrawler/entities/Action.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/temenos/rlanouette/dungeoncrawler/entities/Maze.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/temenos/rlanouette/dungeoncrawler/main/controllers/GameController.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/temenos/rlanouette/dungeoncrawler/entities/Action.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/temenos/rlanouette/dungeoncrawler/main/controllers/ConfigErrorController.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/temenos/rlanouette/dungeoncrawler/main/controllers/GameCompleteController.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/temenos/rlanouette/dungeoncrawler/main/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/temenos/rlanouette/dungeoncrawler/main/controllers/GameController.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/temenos/rlanouette/dungeoncrawler/main/controllers/ItemSelectController.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/temenos/rlanouette/dungeoncrawler/main/controllers/NameEntryController.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/temenos/rlanouette/dungeoncrawler/entities/ItemType.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/temenos/rlanouette/dungeoncrawler/main/models/GameContext.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/temenos/rlanouette/dungeoncrawler/main/util/Popup.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/temenos/rlanouette/dungeoncrawler/main/controllers/TitleController.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/temenos/rlanouette/dungeoncrawler/main/controllers/ConfigErrorController.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/temenos/rlanouette/dungeoncrawler/main/controllers/GameCompleteController.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/temenos/rlanouette/dungeoncrawler/main/controllers/ItemSelectController.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/temenos/rlanouette/dungeoncrawler/entities/ItemType.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/temenos/rlanouette/dungeoncrawler/entities/Action.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/temenos/rlanouette/dungeoncrawler/main/controllers/GameController.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/temenos/rlanouette/dungeoncrawler/main/models/GameContext.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/temenos/rlanouette/dungeoncrawler/entities/Maze.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/temenos/rlanouette/dungeoncrawler/main/controllers/NameEntryController.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/temenos/rlanouette/dungeoncrawler/main/util/Popup.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/temenos/rlanouette/dungeoncrawler/main/controllers/TitleController.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/temenos/rlanouette/dungeoncrawler/main/Main.java" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>groovy-2.4.15</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>SynopticProject</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
